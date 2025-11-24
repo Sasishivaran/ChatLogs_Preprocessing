@@ -1,0 +1,11 @@
+conversation_id,sender,timestamp,message_text
+C001,customer,2023-07-01 09:15:00,Hey I need help w/ my order pls
+C001,agent,2023-07-01 09:16:10,Of course! Can you share your order ID?
+C001,customer,2023-07-01 09:17:05,ya its #12345
+C002,customer,2023-07-01 02:03:00,why u guys charge me twice??
+C002,agent,2023-07-01 02:04:30,I’m sorry to hear that. Let me check your billing info.
+C003,customer,2023-07-01 14:22:00,thx for the quick reply!
+C003,agent,2023-07-01 14:23:10,You’re welcome! Anything else I can help with?
+C004,customer,2023-07-01 11:00:00,order still not shipped 😡
+C004,agent,2023-07-01 11:01:45,I apologize. Let me escalate this to our shipping team.
+C005,customer,2023-07-01 18:45:00,u there? need refund asap
